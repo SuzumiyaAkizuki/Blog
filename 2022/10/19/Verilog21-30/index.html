@@ -28,7 +28,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://akizukipic.oss-cn-beijing.aliyuncs.com/img/202210192204193.png">
 <meta property="article:published_time" content="2022-10-19T08:26:10.000Z">
-<meta property="article:modified_time" content="2025-01-11T16:50:32.562Z">
+<meta property="article:modified_time" content="2025-01-20T16:35:31.335Z">
 <meta property="article:author" content="SuzumiyaAkizuki">
 <meta property="article:tag" content="数电">
 <meta property="article:tag" content="Verilog">
@@ -725,7 +725,7 @@
 <figure class="highlight verilog"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><code class="hljs verilog"><span class="hljs-keyword">module</span> top_module(<br>    <span class="hljs-keyword">input</span> a,<br>    <span class="hljs-keyword">input</span> b,<br>    <span class="hljs-keyword">input</span> sel_b1,<br>    <span class="hljs-keyword">input</span> sel_b2,<br>    <span class="hljs-keyword">output</span> <span class="hljs-keyword">wire</span> out_assign,<br>    <span class="hljs-keyword">output</span> <span class="hljs-keyword">reg</span> out_always); <br><span class="hljs-comment">// 请用户在下方编辑代码</span><br>    <span class="hljs-keyword">assign</span> out_assign = (sel_b1 &amp; sel_b2) ? b : a;<br>    <span class="hljs-keyword">always</span> @(*) <span class="hljs-keyword">begin</span><br>        <span class="hljs-keyword">if</span>(sel_b1 &amp; sel_b2)<br>            out_always = b;<br>        <span class="hljs-keyword">else</span> <br>            out_always = a;<br>    <span class="hljs-keyword">end</span><br><span class="hljs-comment">//用户编辑到此为止</span><br><span class="hljs-keyword">endmodule</span><br></code></pre></td></tr></table></figure>
 <hr />
 <p>本站的运行成本约为每个月5元人民币，如果您觉得本站有用，欢迎打赏：</p>
-<p><img src="https://akizukipic.oss-cn-beijing.aliyuncs.com/img/202501120027592.png" srcset="/img/loading.gif" lazyload alt="image-20250112002710775" style="zoom:25%;" /></p>
+<p><img src="https://akizukipic.oss-cn-beijing.aliyuncs.com/img/202501120027592.png" srcset="/img/loading.gif" lazyload alt="" style="zoom:25%;" /></p>
 
                 
               </div>

@@ -1,0 +1,6 @@
+.index-img {
+  transition: .4s;           /*动画时间*/
+}
+.index-card:hover .index-img {
+  transform: scale(1.05);    /*放大倍数*/
+}

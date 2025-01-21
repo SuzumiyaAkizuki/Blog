@@ -820,13 +820,6 @@
   </url>
   
   <url>
-    <loc>https://suzumiyaakizuki.github.io/tags/Verilog/</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://suzumiyaakizuki.github.io/tags/%E6%95%B0%E7%94%B5/</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -834,14 +827,7 @@
   </url>
   
   <url>
-    <loc>https://suzumiyaakizuki.github.io/tags/C/</loc>
-    <lastmod>2025-01-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://suzumiyaakizuki.github.io/tags/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/</loc>
+    <loc>https://suzumiyaakizuki.github.io/tags/Verilog/</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -856,6 +842,20 @@
   
   <url>
     <loc>https://suzumiyaakizuki.github.io/tags/Matlab/</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suzumiyaakizuki.github.io/tags/C/</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suzumiyaakizuki.github.io/tags/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1016,14 +1016,14 @@
   </url>
   
   <url>
-    <loc>https://suzumiyaakizuki.github.io/tags/%E5%9B%9E%E5%BF%86/</loc>
+    <loc>https://suzumiyaakizuki.github.io/tags/%E9%94%BB%E7%82%BC/</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://suzumiyaakizuki.github.io/tags/%E9%94%BB%E7%82%BC/</loc>
+    <loc>https://suzumiyaakizuki.github.io/tags/%E5%9B%9E%E5%BF%86/</loc>
     <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

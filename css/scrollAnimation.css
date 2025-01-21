@@ -1,0 +1,10 @@
+.index-card {
+  transition: all 0.5s;
+  transform: scale(calc(1.5 - 0.5 * var(--state)));
+  opacity: var(--state);
+  margin-bottom: 2rem;
+}
+
+.index-img img {
+  margin: 20px 0;
+}

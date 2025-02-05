@@ -834,7 +834,14 @@
   </url>
   
   <url>
-    <loc>https://suzumiyaakizuki.github.io/tags/C/</loc>
+    <loc>https://suzumiyaakizuki.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2025-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suzumiyaakizuki.github.io/tags/Matlab/</loc>
     <lastmod>2025-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -848,14 +855,7 @@
   </url>
   
   <url>
-    <loc>https://suzumiyaakizuki.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2025-02-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://suzumiyaakizuki.github.io/tags/Matlab/</loc>
+    <loc>https://suzumiyaakizuki.github.io/tags/C/</loc>
     <lastmod>2025-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -953,14 +953,14 @@
   </url>
   
   <url>
-    <loc>https://suzumiyaakizuki.github.io/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</loc>
+    <loc>https://suzumiyaakizuki.github.io/tags/%E6%9C%80%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2025-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://suzumiyaakizuki.github.io/tags/%E6%9C%80%E4%BC%98%E5%8C%96/</loc>
+    <loc>https://suzumiyaakizuki.github.io/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</loc>
     <lastmod>2025-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1023,14 +1023,14 @@
   </url>
   
   <url>
-    <loc>https://suzumiyaakizuki.github.io/tags/%E5%9B%9E%E5%BF%86/</loc>
+    <loc>https://suzumiyaakizuki.github.io/tags/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/</loc>
     <lastmod>2025-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://suzumiyaakizuki.github.io/tags/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/</loc>
+    <loc>https://suzumiyaakizuki.github.io/tags/%E5%9B%9E%E5%BF%86/</loc>
     <lastmod>2025-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
